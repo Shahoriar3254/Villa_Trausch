@@ -56,7 +56,7 @@ section {
   width: 100%;
   height: 100vh;
   text-align: center;
-  background-image: url("../images/Picture1.jpg");
+  background-image: url("./images/Picture1.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   backface-visibility: hidden;
@@ -68,19 +68,19 @@ section {
 
 @keyframes slideBg {
   0%  {
-    background-image: url("../images/Picture1.jpg")
+    background-image: url("./images/Picture1.jpg")
   }
   25%  {
-    background-image: url("../images/Picture2.png")
+    background-image: url("./images/Picture2.png")
   }
   50%  {
-    background-image: url("../images/Picture3.png")
+    background-image: url("./images/Picture3.png")
   }
   75%  {
-    background-image: url("../images/Picture4.png")
+    background-image: url("./images/Picture4.png")
   }
   100%  {
-    background-image: url("../images/Picture5.jpg")
+    background-image: url("./images/Picture5.jpg")
   }
 }
 
